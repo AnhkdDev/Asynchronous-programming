@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
